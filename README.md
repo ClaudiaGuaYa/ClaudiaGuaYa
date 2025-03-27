@@ -1,6 +1,6 @@
 👋 I’m Claudia Guallarte, an Audiovisual Systems Engineer passionate about graphics, audio processing, cinema, and interactive storytelling.
 
-🎬 With a background in audiovisual engineering, I have experience in audio processing, graphics, and media technologies, always striving to push creative and technical boundaries.
+🎬 With a background in audiovisual engineering, I have experience in audio and video processing, graphics, and media technologies, always striving to push creative and technical boundaries.
 
 🌱 Constantly learning, experimenting, and refining my craft. Check out my projects below!
 <!--
